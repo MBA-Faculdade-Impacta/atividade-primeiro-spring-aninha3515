@@ -22,7 +22,7 @@ public class Pessoa {
 	}
 
 	public void setIdade(int idade) {
-		if (idade > 18 && idade < 100) {
+		if (idade > 17 && idade < 100) {
 			this.idade = idade;
 		}
 	}
